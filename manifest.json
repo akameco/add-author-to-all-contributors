@@ -1,0 +1,17 @@
+{
+    "name": "add-author-to-all-contributors",
+    "description": "all-contributorsのボタンを追加する",
+    "version": "0.1.0",
+    "manifest_version": 2,
+    "content_scripts": [
+      {
+        "run_at": "document_start",
+        "matches": [
+          "https://github.com/*"
+        ],
+        "js": [
+          "content.js"
+        ]
+      }
+    ]
+  }
