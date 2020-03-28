@@ -16,6 +16,7 @@ document.addEventListener("DOMContentLoaded", () => {
         "alt"
       );
       fieldEl.value = `@all-contributors please add ${prAuthor} for code, test, doc, infra`;
+      $("#partial-new-comment-form-actions .btn-primary").disabled = false;
     },
     false
   );
