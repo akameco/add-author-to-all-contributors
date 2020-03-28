@@ -3,7 +3,9 @@
 [![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-Chrome Extension
+Chrome Extension for [All Contributors Bot](https://allcontributors.org/docs/en/bot/overview)
+
+![capture](media.gif)
 
 ## Contributors ✨
 
